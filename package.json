@@ -10,7 +10,7 @@
 
   "scripts": {
 
-    "start": "node bot.js"
+    "start": "node 2.0.js"
 
   },
 
